@@ -31,7 +31,7 @@ slpkg -i texmaker hunspell-gr
 \title{Some Title}
 \author{Your Name \\
 email@gmail.com}
-\date{/today} 
+\date{\today} 
 \setmainfont{DejaVu Sans}
 
 \begin{document}
